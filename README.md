@@ -1,2 +1,2 @@
 # Ecommerce-headphones-website
-A fully functioning front and back end headphones E- commerce website. Including a shopping cart, order list, order history, and multiple user support. 
+A fully functioning front and back end headphones E- commerce website. Including a shopping cart, order list, order history, and multiple user support. The website is coded using html, css, JS, PHP, SQL, and bootstrap techniques. Please keep in mind this was my first ever attempt at a fully functioning E-commerce website and some security features can be better implemented such as salting user passwords rather than hashing them. I would love to work on projects such as these in the future. 
