@@ -1,0 +1,132 @@
+.img-three{
+	width:1400px;
+}
+.img-four{
+	margin-top:23px;
+	width:600px;
+}
+.img-five{
+	margin-top:23px;
+}
+.box{
+	text-align:center;
+	background-color:#f4be41;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.headLogo{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:251px;
+	position: absolute; 
+	top: 240px; 
+	width: 0%; 
+	left:400px !important;
+	color:white ;
+}
+.headLogo_2{
+    font-family: 'Rajdhani', sans-serif;
+	font-size:100px;
+	position: absolute; 
+	top: 450px; 
+	width: 0%; 
+	left:450px !important;
+	color:white ;
+}
+.top_prod{
+    color:#f4be41;
+}
+.box p {
+	font-size:20px;
+}
+.box h2{
+	font-size:35px;
+	color:black;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+.logo{
+	width:100px;
+	height:50px;
+}
+.product-title{
+	text-align:center;
+}
+.shop_at_Icon{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:120px;
+	text-decoration:bold;
+	text-align:Center;
+	color:#f4be41;
+}
+body{
+	background-color:white;
+}
+a{
+    color: black !important ;
+}
+
+.headLogo{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:251px;
+	position: absolute; 
+	top: 240px; 
+	width: 0%; 
+	left:350px;
+	color:white;
+}
+.best_seller{
+	text-align:center;
+	font-size:80px;
+	font-family: 'Rajdhani', sans-serif;
+	color:black;
+}
+.beats-disc{
+	margin-top:200px;
+	text-align:center;
+	font-size:21px;
+	font-family: 'Rajdhani', sans-serif;
+	color:black;
+}
+.test:hover{
+	background-color:Red !important;
+}
+.headImg{
+    width:1500px;
+}
+a{
+	color:white !important;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+@media all and (max-width: 1500px) { 
+    .headLogo {
+        font-size: 251px; 
+    }
+}
+@media all and (max-width: 1100px) {
+    .headLogo {
+        font-size: 100px; 
+        }
+    }
+@media all and (max-width: 700px) { 
+    .headLogo {
+        font-size: 40px; 
+        }
+    }
+@media all and (max-width: 400px) { 
+    .headLogo {
+        font-size: 0px; 
+        }
+    }

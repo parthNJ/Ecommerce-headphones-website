@@ -1,0 +1,27 @@
+.box{
+    width:auto;
+    height:auto;
+	box-shadow: 10px -5px 38px 0px rgba(1,1,1,1);
+	background:#EBDEF0;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+.logo{
+	width:100px;
+	height:50px;
+}
+.product-title{
+	text-align:center;
+}
+a{
+    color:white !important;
+}
+h1{
+    text-align:center;
+}

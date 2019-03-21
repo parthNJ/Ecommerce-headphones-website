@@ -1,0 +1,16 @@
+.box{
+    height:300px;
+	box-shadow: 10px -5px 38px 0px rgba(0,0,0,0.75);
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+.decorate_a {
+    background-color: #f44336 !important;
+    color: white !important;
+    padding: 14px 25px !important;
+    text-align: center !important; 
+    text-decoration: none !important;
+    display: inline-block !important;
+}

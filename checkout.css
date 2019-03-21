@@ -1,0 +1,72 @@
+.box{
+	text-align:center;
+	background-color:#f4be41;
+	font-family: 'Rajdhani', sans-serif;
+}
+.box_1{
+    height:500px;
+	box-shadow: 10px -5px 38px 0px rgba(1,1,1,1);
+}
+.cola{
+    color:black !important ;
+}
+
+.box p {
+	font-size:20px;
+}
+.box h2{
+	font-size:35px;
+	color:black;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+.logo{
+	width:100px;
+	height:50px;
+}
+.product-title{
+	text-align:center;
+}
+.shop_at_Icon{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:120px;
+	text-decoration:bold;
+	text-align:Center;
+	color:#f4be41;
+}
+body{
+	background-color:white;
+}
+a{
+	color:gray !important;
+}
+h1{
+    text-align:center;
+}
+.move_right_button{
+    float:right !important;
+}
+.checkout_btn_{
+    width:150px;
+    height:Auto;
+    font-size:20px;
+}
+.move_right{
+    float:right;
+}
+.table-responsive {
+     max-width: 150px;
+     overflow: scroll;
+}
+.table_img{
+   width:100px;
+   
+  height: auto;
+}
+

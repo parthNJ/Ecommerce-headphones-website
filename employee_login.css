@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+    	font-family: 'Rajdhani', sans-serif;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+.move{
+    text-align:center;
+}
+.box{
+    width:auto;
+    height:auto;
+	box-shadow: 10px -5px 38px 0px rgba(1,1,1,1);
+}

@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    font-family: 'Rajdhani', sans-serif;
+    color:green;
+}
+a{
+    color:green;
+     font-family: 'Rajdhani', sans-serif;
+     text-align:center;
+     font-size:25px;
+}
+input{
+    width:140px;
+}
+.col_change{
+    color:red;
+     font-family: 'Rajdhani', sans-serif;
+   
+}
+h2{
+    color:green;
+     font-family: 'Rajdhani', sans-serif;
+     
+}
+.move_a{
+    text-align:center;
+    background:black;
+}

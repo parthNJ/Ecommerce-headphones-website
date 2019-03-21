@@ -1,0 +1,141 @@
+.another{
+	position: relative;
+}
+.text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  color:#f4be41;
+  font-family: 'Rajdhani', sans-serif;
+  font-size:50px;
+}
+.image{
+	display: block;
+  width: 100%;
+  height: auto;
+}
+.overlay{
+	position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+.another:hover .overlay {
+  opacity: 1;
+}
+
+.img-three{
+	width:1400px;
+}
+.img-four{
+	margin-top:23px;
+	width:600px;
+}
+.img-five{
+	margin-top:23px;
+}
+.box{
+	text-align:center;
+	background-color:#f4be41;
+	font-family: 'Rajdhani', sans-serif;
+}
+.box p {
+	font-size:20px;
+}
+.box h2{
+	font-size:35px;
+	color:black;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+.logo{
+	width:100px;
+	height:50px;
+}
+.product-title{
+	text-align:center;
+}
+.shop_at_Icon{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:120px;
+	text-decoration:bold;
+	text-align:Center;
+	color:#f4be41;
+}
+body{
+	background-color:white;
+}
+a{
+	color:white !important;
+}
+h2{
+	font-family: 'Rajdhani', sans-serif;
+	font-size:64px;
+	text-decoration:bold;
+}
+.centered{
+	position: absolute; 
+	top: 162px; 
+	width: 20%; 
+	color:#f4be41;
+	left:245px;
+	font-family: 'Rajdhani', sans-serif;
+}
+.centered-two{
+	position: absolute; 
+	font-family: 'Rajdhani', sans-serif;
+	top: 268px; 
+	width: 45%; 
+	color:white;
+	left:135px;
+}
+
+/* For ICON */
+@media all and (max-width: 1500px) { 
+    h1 {
+        font-size: 100px; 
+    }
+}
+@media all and (max-width: 1100px) {
+    h1 {
+        font-size: 50px; 
+        }
+    }
+@media all and (max-width: 500px) { 
+    h1 {
+        font-size: 0px; 
+        }
+    }
+/*For life without music */	
+@media all and (max-width: 1500px) { 
+    p {
+        font-size: 30px; 
+    }
+}
+@media all and (max-width: 1100px) { 
+    p {
+        font-size: 15px; 
+        }
+    }
+@media all and (max-width: 500px) { 
+    p {
+        font-size: 0px; 
+        }
+    
+}

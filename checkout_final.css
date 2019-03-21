@@ -1,0 +1,105 @@
+.box{
+    height:auto;
+    width:auto;
+	box-shadow: 10px 10px 246px 110px rgba(0,0,0,1);
+	background:white !important;
+	border-radius: 25px;
+}
+body{
+    background:#99A3A4;
+}
+
+* { 
+  box-sizing: border-box; 
+}
+h2{
+    font-family: 'Rajdhani', sans-serif;
+}
+.lable_txt{
+    font-family: 'Rajdhani', sans-serif !important;
+    font-size:20px !important;
+    color:black !important;
+}
+.total{
+    text-align:center;
+}
+
+.table_img{
+   width:100px;
+  height: auto;
+}
+.country_sle{
+    width:100px !important;
+    height:45px !important;
+}
+
+
+input {
+  display: block;
+  width: 100%;
+  height: 44px;
+  padding: 4px 10px;
+  border: 1px solid #AEB6BF;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+
+
+  -webkit-border-radius: 2px;
+          border-radius: 2px;
+          
+}
+
+input:disabled {
+  background-color: #efefef;
+  cursor: not-allowed;
+}
+
+label {
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.c-address-search {
+  width: 100%;
+}
+
+.c-address-search input {
+  margin: 10px;
+}
+
+.form-address {
+  margin: 10px;
+}
+
+.flex-container {
+  width: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  margin-bottom: 5px;
+}
+
+.flex-item {
+  -webkit-flex: 1 1;
+  flex: 1 1;
+  margin: 10px 0;
+}
+
+.c-1column {
+  width: 100%;
+}
+
+.c-2column {
+  width: 50%;
+  margin-right: 10px;
+}
+
+.c-2column:last-child {
+  margin-right: 0;
+}

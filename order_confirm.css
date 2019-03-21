@@ -1,0 +1,27 @@
+h1{
+    text-align:center !important;
+    color:black !important;
+    font-family: 'Rajdhani', sans-serif;
+}
+.box{
+    height:450px;
+	box-shadow: 10px -5px 35px 0px rgba(0,0,0,0.75);
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width:100px !important;
+    height:100px;
+    font-size:35px;
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+a:hover, a:active {
+    background-color: red;
+    font-family: 'Rajdhani', sans-serif;
+}
+.center_flo{
+    text-align:center;
+}

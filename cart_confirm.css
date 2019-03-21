@@ -1,0 +1,79 @@
+.box_1{
+    height:500px;
+	box-shadow: 10px -5px 38px 0px rgba(0,0,0,0.75);
+}
+
+.btclass{
+	background: red;
+	width:50px;
+	height:35px;
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  text-decoration: none;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+h1{
+    font-family: 'Rajdhani', sans-serif;
+    text-align:center;
+    color:Red;
+    text-decoration:bold;
+}
+h4{
+    font-family: 'Rajdhani', sans-serif;
+    text-align:center;
+}
+h3{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+.dropdown-menu{
+	background-color:black !important;
+	width:250px;
+}
+
+.dropdown-menu a:hover {
+	background-color:#f4be41 !important;
+}
+a{
+    color:white !important;
+}
+
+.backTO{
+	width:50px;
+	height:35px;
+  border-radius: 1px;
+  font-family: Georgia;
+  font-size: 18px;
+  text-decoration: none;
+    color:black !important;
+}
+.backTO_2{
+    background:red;
+    width:auto;
+    height:auto;
+    color:white;
+    text-align:center;
+}
+.backTO_3:hover{
+    background:red;
+}
+.backTO:hover{
+    background:red;
+}
+.backTo_3{
+    background: white;
+	width:50px;
+	height:35px;
+    border-radius: 1px;
+    font-family: Georgia;
+    font-size: 18px;
+    text-decoration: none;
+    color:black !important;
+}
